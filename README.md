@@ -1,6 +1,11 @@
 # Tech Writers International
 
-Check out our books below:
+Check out our books by clicking a link:
+
+- [Python Coding for Beginners](#python-coding-for-beginners)
+- [CPython Explained](#cpython-explained)
+
+Or browse them one at a time.
 
 ## Python Coding for Beginners
 
