@@ -3,6 +3,6 @@ title: Tech Writers International
 description: Home page of our books
 navigation:
   - name: "Python Coding for Beginners"
-    url: "/#python-coding-for-beginners"
+    url: "#python-coding-for-beginners"
   - name: "CPython Explained"
-    url: "/#cpython-explained"
+    url: "#cpython-explained"
