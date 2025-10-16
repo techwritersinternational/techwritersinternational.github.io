@@ -4,6 +4,7 @@ Check out our books by clicking a link:
 
 - [Python Coding for Beginners](#python-coding-for-beginners)
 - [CPython Explained](#cpython-explained)
+- [Applied Cryptography with Python](#applied-cryptography-with-python)
 
 Or browse them one at a time.
 
