@@ -18,3 +18,9 @@ You can view the code on [our GitHub repo](https://github.com/techwritersinterna
 You can view the code on [our GitHub repo](https://github.com/techwritersinternational/cpython-explained):
 
 ![An image of the front cover of a book. The book is called CPython Explained. There is a circle in the bottom-left corner. The circle contains text that says, "Get inside Python." The cover image is a brown snake coiled on a tree branch.](<img/CPython Explained.png>)
+
+## Applied Cryptography with Python
+
+You can view the code on [our GitHub repo](https://github.com/techwritersinternational/applied-cryptography-with-python):
+
+![An image of the front cover of a book. The book is called Applied Cryptography with Python. There is a circle in the bottom-left corner. The circle contains text that says, "Includes Elliptic Curve Cryptography." The cover image is a colorful jungle scene with a geometric elephant in the foreground.](<img/Applied Cryptography.png>)
